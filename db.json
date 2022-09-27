@@ -1,0 +1,13 @@
+{
+  "animals": [
+    { "id": 1, "name": "Maggie", "type": "Dog", "age": 7, "color": "Marrom"},
+    { "id": 2, "name": "Tiger", "type": "Tartaruga", "age": 8, "color": "Casco"},
+    { "id": 3, "name": "Lips", "type": "Peixe", "age": 1, "color": "Cinza"},
+    { "id": 4, "name": "Melina", "type": "Dog", "age": 7, "color": "Marrom Claro"},
+    { "id": 5, "name": "Ig", "type": "Dog", "age": 7, "color": "Branco"},
+    { "id": 6, "name": "Nami", "type": "Dog", "age": 7, "color": "Marrom Escuro"},
+    { "id": 7, "name": "Shakira", "type": "Dog", "age": 7, "color": "Chocolate"},
+    { "id": 8, "name": "Eros", "type": "Dog", "age": 7, "color": "Bege claro"},
+    { "id": 9, "name": "July", "type": "Dog", "age": 7, "color": "Bege claro"}
+  ]
+}
